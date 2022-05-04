@@ -1,2 +1,2 @@
-# hello-study
+# hello-study!
 first repository on GitHup
